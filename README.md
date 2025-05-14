@@ -16,3 +16,8 @@ You can move your character using either A/D or left/right keys.
 ## Requirements
 - Python
 - Pygame
+
+## Art Credits
+- Knight: https://xzany.itch.io/free-knight-2d-pixel-art
+- Arrow: https://opengameart.org/content/arrow-0. Find the creator at FoxTango.Tumblr.com
+- Background: https://opengameart.org/content/castle-background
