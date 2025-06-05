@@ -3,7 +3,7 @@
 A 2d game where you have to survive the infinite arrows falling from the sky. Game ends when you get hit.
 
 ## Background
-This is my first time creating a project using pygame. I recently started learning pygame and wanted to apply my new-found skills create a simple game that I would find enjoyable. I also created additional classes(player,animation, arrow) that I hope would also help me in future projects as well.
+This is my first time creating a project using pygame. I recently started learning pygame and wanted to apply my new-found skills create a simple game that I would find enjoyable. I also created additional classes(player,animation, arrow) that might help me and others in future projects as well.
 
 ## Features
 - Difficulty Curve corresponding with Game Time.
