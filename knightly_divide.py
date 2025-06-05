@@ -163,6 +163,7 @@ while running:
 
         # Save the move_set returned from playformer_moveset() to check whether the player is moving left or right.
         move_set = player.platformer_moveset(11.5)
+        player.loop_x(800)
         # Call right moving sprite animation if moving right.
         if move_set[0] > 0:
             Knight_run()
